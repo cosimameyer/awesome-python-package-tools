@@ -1,5 +1,7 @@
 # Tools for developing packages in Python 
 
+> **work in progress**
+
 Inspired by [Indrajeet's excellent overview of package development tools in R](https://github.com/IndrajeetPatil/awesome-r-pkgtools), this list is my contribution to the Python world.
 
 If there are any tools missing that you can recommend, feel free to [open an issue](https://github.com/cosimameyer/awesome-python-package-tools/issues/new/choose).
