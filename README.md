@@ -37,3 +37,6 @@ If there are any tools missing that you can recommend, feel free to [open an iss
 - [Python Packages (Tomas Beuzen & Tiffany Timbers)](https://py-pkgs.org)
 - [Publishing Python Packages: Test, Share, and Automate Your Projects (Dane Hillard)](https://www.manning.com/books/publishing-python-packages)
 - [Python Packaging Authority (PyPA)](https://www.pypa.io/en/latest/)
+
+## General helpful VS Code extensions for development
+- [`indent-rainbow`](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
