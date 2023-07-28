@@ -2,7 +2,7 @@
 
 Inspired by [Indrajeet's excellent overview of package development tools in R](https://github.com/IndrajeetPatil/awesome-r-pkgtools), this list is my contribution to the Python world.
 
-If there are any tools missing, feel free to [open an issue](https://github.com/cosimameyer/awesome-python-package-tools/issues/new/choose).
+If there are any tools missing that you can recommend, feel free to [open an issue](https://github.com/cosimameyer/awesome-python-package-tools/issues/new/choose).
 
 ## Skeleton 
 - [Py-Pkgs cookiecutter template](https://github.com/py-pkgs/py-pkgs-cookiecutter)
