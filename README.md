@@ -20,7 +20,11 @@ If there are any tools missing that you can recommend, feel free to [open an iss
 - [`flake8`](https://flake8.pycqa.org/)
 
 ## Benchmarking
-- ...
+- [`timeit`](https://docs.python.org/3/library/timeit.html)
+- [`rich-bench`](https://github.com/tonybaloney/rich-bench)
+- [`pyperf`](https://github.com/psf/pyperf)
+- [`hyperfine`](https://github.com/sharkdp/hyperfine)
+- [Python Call Graph](https://pycallgraph.readthedocs.io/en/master/)
 
 ## Writing documentation 📑
 - [`pydoc`](https://docs.python.org/3/library/pydoc.html#module-pydoc)
