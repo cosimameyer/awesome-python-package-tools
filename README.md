@@ -19,7 +19,12 @@ If there are any tools missing, feel free to [open an issue](https://github.com/
 - [`pylint`](https://www.pylint.org/)
 - [`flake8`](https://flake8.pycqa.org/)
 
+# Benchmarking
+- ...
+
 # Writing documentation 📑
+- [`pydoc`](https://docs.python.org/3/library/pydoc.html#module-pydoc)
+
 ## Writing docstring
 - [autodocstring (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
