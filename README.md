@@ -18,8 +18,13 @@ If there are any tools missing that you can recommend, feel free to [open an iss
 
 ## Style 💅
 ### Linting
-- [`pylint`](https://www.pylint.org/)
-- [`flake8`](https://flake8.pycqa.org/)
+- [`pylint`](https://www.pylint.org/) ([VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint))
+- [`flake8`](https://flake8.pycqa.org/) ([VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8))
+
+### Typehint
+- [`mypy`](https://mypy.readthedocs.io/en/stable/) ([VS Code extension 1](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker), [VS Code extension 2](https://marketplace.visualstudio.com/items?itemName=matangover.mypy))
+- [pyright](https://github.com/microsoft/pyright) ([VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright))
+- [pylance (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 
 ## Benchmarking
 - [`timeit`](https://docs.python.org/3/library/timeit.html)
@@ -39,10 +44,15 @@ If there are any tools missing that you can recommend, feel free to [open an iss
 - [MkDocs](https://mkdocs.readthedocs.io)
 - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
 
+## General helpful tools for development
+- PaaS:
+  - [Docker](https://www.docker.com) ([py-pks/vscode image](https://github.com/py-pkgs/docker-vscode))
+- VS Code extensions:
+  - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
 ## Resources 📚
+### Books
 - [Python Packages (Tomas Beuzen & Tiffany Timbers)](https://py-pkgs.org)
 - [Publishing Python Packages: Test, Share, and Automate Your Projects (Dane Hillard)](https://www.manning.com/books/publishing-python-packages)
+### Website
 - [Python Packaging Authority (PyPA)](https://www.pypa.io/en/latest/)
-
-## General helpful VS Code extensions for development
-- [`indent-rainbow`](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
