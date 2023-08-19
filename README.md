@@ -13,8 +13,23 @@ If there are any tools missing that you can recommend, feel free to [open an iss
 - [`unittest`](https://docs.python.org/3/library/unittest.html)
 - [`pytest`](https://docs.pytest.org)
 
-## Package and dependency management 📦
+## Environment management and packing tools 📦
+
+- pyenv
+- [rtx](https://github.com/jdxcode/rtx)
+- virtualenv
+- venv
+- pipenv
+- pip
+- conda
 - [`poetry`](https://python-poetry.org)
+- hatch
+- twine
+- setuptools
+- enscons
+- [maturin](https://pypi.org/project/maturin/)
+- [flit](https://pypi.org/project/flit/)
+- [pyflow](https://pypi.org/project/pyflow/)
 
 ## Style 💅
 ### Linting
