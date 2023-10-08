@@ -19,7 +19,7 @@ If there are any tools missing that you can recommend, feel free to [open an iss
 - [rtx](https://github.com/jdxcode/rtx)
 - virtualenv
 - venv
-- pipenv
+- [`pipenv`](https://pipenv.pypa.io)
 - pip
 - conda
 - [`poetry`](https://python-poetry.org)
