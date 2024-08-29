@@ -49,6 +49,8 @@ If there are any tools missing that you can recommend, feel free to [open an iss
 - [Python Call Graph](https://pycallgraph.readthedocs.io/en/master/)
 - [`cProfile`](https://docs.python.org/3/library/profile.html#module-cProfile) (built-in profiler for Python)
 - [SnakeViz](https://jiffyclub.github.io/snakeviz/) (browser-based graphical viewer of Python's cProfile)
+- [`line_profiler`](https://github.com/pyutils/line_profiler)
+- [`memray`](https://github.com/bloomberg/memray) (produces flame graph reports)
 
 ## Writing documentation 📑
 - [`pydoc`](https://docs.python.org/3/library/pydoc.html#module-pydoc)
