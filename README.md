@@ -47,6 +47,8 @@ If there are any tools missing that you can recommend, feel free to [open an iss
 - [`pyperf`](https://github.com/psf/pyperf)
 - [`hyperfine`](https://github.com/sharkdp/hyperfine)
 - [Python Call Graph](https://pycallgraph.readthedocs.io/en/master/)
+- [`cProfile`](https://docs.python.org/3/library/profile.html#module-cProfile) (built-in profiler for Python)
+- [SnakeViz](https://jiffyclub.github.io/snakeviz/) (browser-based graphical viewer of Python's cProfile)
 
 ## Writing documentation 📑
 - [`pydoc`](https://docs.python.org/3/library/pydoc.html#module-pydoc)
